@@ -1,5 +1,5 @@
 {
-    "name": "bastinald/laravel-livewire-forms",
+    "name": "osoobe/laravel-livewire-forms",
     "homepage": "https://github.com/bastinald/laravel-livewire-forms",
     "description": "Laravel Livewire form component with declarative Bootstrap 5 fields and buttons.",
     "license": "MIT",
